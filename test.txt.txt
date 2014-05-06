@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-first commit [second]
-
-edited on local
-=======
-first commit [second] edited on server
->>>>>>> 93dd7c990bcdd00252e5af37737f153347d88e95
